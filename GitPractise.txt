@@ -1,1 +1,3 @@
 Hi, hello GIT<>
+
+And Ive learnt how to push a file inside the git tool
